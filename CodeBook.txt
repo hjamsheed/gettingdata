@@ -1,0 +1,34 @@
+==================================================================
+CodeBook for tidy data set based on Human Activity Recognition Using Smartphones Dataset Version 1.0 
+
+The original data set is provide by:
+Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
+Smartlab - Non Linear Complex Systems Laboratory
+DITEN - Università degli Studi di Genova.
+Via Opera Pia 11A, I-16145, Genoa, Italy.
+activityrecognition@smartlab.ws
+www.smartlab.ws
+
+
+The data set provides the average values for each subject for the mean and standard dev of the following measurements.  The values from Test data set a prefixed by Test whereas the Training Values are prefixed by Train.  The suffix would denote whether the column is contains the average of the mean or standard deviation measurements.  For example Train: tBodyAcc-XYZ-mean() is the average of the mean measurements of the tBodyAcc-XYZ from the training data set.  The UCI data set contains a more detailed description of each of the measurments 
+
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
+
+
+
